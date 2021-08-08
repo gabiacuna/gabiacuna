@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Soy estudiante de tercer año de _Ingenieria Civil ✨Informatica✨_ en la USM. 🔭
+
+🌱 En mis repositorios se encuentra gran parte de mi trayerctoria de aprendizaje desde que entre a la universidad (2019). 🌱
