@@ -57,8 +57,9 @@ Here are some ideas to get you started:
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
 | [Liver Segmentation MRI](https://github.com/yourrepo) | 3D U-Net model for medical imaging | Python, PyTorch, OpenCV |
-| [Logo Detection](https://github.com/yourrepo) | Object detection for brand logos | Python, YOLO, Flask |
-| [Industrial Automation](https://github.com/yourrepo) | Raspberry Pi integration for mining systems | Python, SQLite, IoT |
+| [Logo Detection](https://github.com/yourrepo) | Object detection for brand logos | Python |
+| [VolleyAI](https://github.com/yourrepo) | Volleyball analytics system based on video procesessing | Python, YOLOv8, OpenCV |
+| [SCADA Data Source Integration](https://github.com/yourrepo) | Product integration for mining systems | Python, RabbitMQ, Linux Networking |
 
 ---
 
