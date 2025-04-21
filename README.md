@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 # Hi there, I'm Gabi 👋
 
 🎓 Informatics Engineer | 🤖 Machine Learning Specialist | 🏥 Medical Imaging Enthusiast  
-
+<!--
 🔭 **Currently working on:**  
 - SCADA data sources integrations at Becker Mining Europe  
 - Improving 3D medical image segmentation models  
+-->
 
 🌱 **Learning:**  
 - Advanced computer vision techniques  
