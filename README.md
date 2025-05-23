@@ -62,13 +62,13 @@ Here are some ideas to get you started:
 | VolleyAI | Volleyball analytics system based on video procesessing | Python, YOLOv8, OpenCV |
 | SCADA Data Source Integration | Product integration for mining systems | Python, RabbitMQ, Linux Networking |
 
----
-
-📊 **GitHub Stats**
-
 <!--
 
+---
+📊 **GitHub Stats**
+
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiacuna&show_icons=true&theme=radical)
--->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiacuna&layout=compact&theme=radical)
+-->
